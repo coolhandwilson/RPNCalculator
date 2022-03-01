@@ -1,5 +1,5 @@
 # RPN Calculator
-This project allows a user to enter in mathemtical equations using Reverse Polish Notation through the command line.
+This project allows a user to calculate mathematical equations using Reverse Polish Notation through the command line.
 
 # Author
 Wilson Scott
